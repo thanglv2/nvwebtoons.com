@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["lookalikes/allowlist"],
+    "target": { "namespace": "web", "site": "https://nvwebtoons.com" }
+  },
+  {
+    "relation": ["lookalikes/allowlist"],
+    "target": { "namespace": "web", "site": "https://about.nvwebtoon.com" }
+  }
+]
