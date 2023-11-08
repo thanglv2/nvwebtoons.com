@@ -5,6 +5,6 @@
   },
   {
     "relation": ["lookalikes/allowlist"],
-    "target": { "namespace": "web", "site": "https://about.nvwebtoon.com" }
+    "target": { "namespace": "web", "site": "https://nvwebtoon.com" }
   }
 ]
